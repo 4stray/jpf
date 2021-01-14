@@ -1,0 +1,523 @@
+for_disabled,company,full_time,min_salary,title,for_students,max_salary,degree_required,half_time,experience
+False,"Новаторстрой, ООО",True,15000,Интернет-маркетолог,False,25000,False,False,2
+False,GoldenWeb,True,12000,"Web-разработчик, верстальщик сайтов",False,12000,False,True,1
+False,"Владимиров С. В., ФЛП",True,8000,"Контент-менеджер, SEO-специалист, копирайтер",True,15000,False,False,2
+False,Vicont Benua,True,10000,Таргетолог,False,15000,False,False,1
+False,Cactus,True,25000,"Разработчик 1С (c.ua, by BigBrain)",False,45000,False,False,1
+False,Absolute.master,True,3800,Контент-менеджер (Битрикс) в Киев,False,3800,False,False,
+False,"Ранок, видавництво",False,,SMM-менеджер,False,,False,True,1
+False,Бруссонет,True,18000,"Администратор сайта, SEO-специалист",False,18000,False,False,2
+False,DataArt,True,,Ruby Developer (Medical Services App),False,,False,False,2
+True,Студия Виталия Комлева,True,7000,Контент-менеджер,True,10000,False,False,1
+True,Meral,True,10000,C# Developer,True,40000,False,False,2
+False,DataArt,True,,Senior UX/UI Designer,False,,False,False,2
+True,Meral,True,13000,PHP Developer,True,25000,False,False,1
+False,Rozetka,True,,Backend developer (PHP),False,,False,False,2
+False,Студия Виталия Комлева,True,7000,SMM-менеджер,True,10000,False,False,1
+False,"Маляс, ТОВ",True,18000,Специалист по аэродинамике,False,36000,False,True,5
+False,Infusemedia,True,8000,Data Verification Specialist,True,8000,False,True,
+False,DC Link,True,7000,Сборщик ПК,False,14000,False,False,1
+False,"АС, видавнича група",True,,Оператор компьютерной верстки,False,,False,False,2
+False,ITCraft,True,,Junior QA Engineer,False,,False,False,
+False,Магнетик,True,15000,Инженер-электронщик,False,17000,False,False,2
+False,Autodoc,True,,Middle Front End Developer (React),False,,False,False,2
+False,Gwara Media,True,4000,SMM-менеджер,True,11000,False,True,2
+False,Maxus International Corporation,True,,Продакт-менеджер,False,,False,False,2
+False,"Фактор, группа компаний",True,,Специалист по информационной безопасности,False,,False,False,2
+False,Gameloft,True,,Video Generalist,False,,False,False,2
+False,Eastern Peak,True,,Technical Project manager,False,,False,False,2
+False,Эксперт-Плюс,True,25000,Программист-электронщик,False,25000,False,False,2
+False,DataArt,True,,Senior DevOps/Site Reliability Engineer (Traffic Management Solutions),False,,False,False,1
+False,Voodoo,True,40000,Unity Developer,True,75000,False,False,
+False,FlexSolution,True,,Middle Java Developer,False,,False,False,1
+False,Лідер Взуття,True,,Контент-менеджер,False,,False,False,1
+False,Otavation,True,40000,PPC Account Manager,False,40000,False,False,2
+False,"Systems Online SCT, Inc.",True,,Junior/Middle Project Manager,False,,False,False,1
+False,Mediabifo,True,10000,Менеджер по работе с клиентами в социальных сетях,True,20000,False,False,
+False,G5 Entertainment,True,,HR Labour Analyst,False,,False,False,1
+False,Valtech,True,,Frontend developer (React),False,,False,False,1
+False,"LFTL, logistics company",True,19900,"Customer Service Representative, Sales Manager (USA)",True,29500,False,False,
+False,Sandi+,True,,Аналитик 1C,False,,False,False,2
+False,FlexSolution,True,,Node.js Developer,True,,False,False,
+False,FlexSolution,True,,Junior Java Developer,True,,False,False,
+False,MDconsult,True,65000,Middle PHP Developer,False,65000,False,False,5
+False,MyCredit,True,,Интернет-маркетолог,False,,False,False,2
+False,DataArt,True,,"FullStack Developer (React, C#, Medical Appointment Scheduling Service)",False,,False,False,5
+False,DataArt,True,,Data Engineer (Global Music Company),False,,False,False,1
+False,Gameloft,True,,Product Manager (Junior),False,,False,False,1
+False,CS,True,,Middle Automation QA Engineer,False,,False,False,1
+False,FlexSolution,True,,Junior Javascript Developer (Frontend),True,,False,False,
+False,Otavation,False,35000,PPC specialist,False,35000,False,False,2
+False,Цитрус,True,,Програміст 1C,False,,False,False,1
+False,CS,True,,Middle Java Developer,False,,False,False,2
+False,Program-Ace,True,,Middle С++ Unreal Engine Developer,False,,False,False,2
+False,DataArt,True,,User Support Engineer (Global Music Company),False,,False,False,1
+False,DataArt,True,,"Business Analyst (Media, Entertainment Practice)",False,,False,False,5
+False,ITCraft,True,,SEO specialist,False,,False,False,1
+False,ITCraft,True,,Full-stack PHP/JS Developer,False,,False,False,2
+False,MyCredit,True,,Аналитик,False,,False,False,1
+False,Ners,True,15000,"SEO-специалист (Middle, Senior)",False,25000,False,True,2
+False,"Омега, ООО",True,,Android-разработчик,False,,False,False,1
+True,"Арти, ООО",True,,Программист 1C,False,,False,False,2
+False,Парфюмер,True,12000,Аналитик 1C,True,12000,False,False,1
+False,DataArt,True,,Middle Webmaster,False,,False,False,2
+False,ITCraft,True,,Unity Developer,False,,False,False,1
+False,FF.ua,True,,PPC-менеджер,False,,False,False,1
+False,DataArt,True,,DevOps Engineer (GCP),False,,False,False,1
+False,DataArt,True,,Senior QA Engineer,False,,False,False,5
+False,DataArt,True,,Scala Developer (Online Marketplace),False,,False,False,1
+False,Sigma Software,True,,Middle/Senior Unity Developer (VR training platform),False,,False,False,2
+False,"Zone3000, IT-company",True,,IT Security Analyst,False,,False,False,2
+False,Macuser,True,20000,"Graphic, Web Designer",False,20000,False,False,1
+False,SoftermiiBPO,True,10000,Customer support representative,True,10000,False,False,
+False,Aimprosoft,True,,Middle/Senior Magento PHP Developer,False,,False,False,2
+False,DataArt,True,,Middle Node.js Engineer,False,,False,False,2
+False,DataArt,True,,"QA Automation Engineer (.NET, Investment Management Services)",False,,False,False,2
+False,Sigma Software,True,,Junior DevOps Engineer (Telecommunication domain),False,,False,False,2
+False,Ябко,True,,Продавець-консультант техніки Apple,False,,False,False,1
+False,Aimprosoft,True,,Senior Java Developer,False,,False,False,5
+False,DataArt,True,,"DevOps Engineer (ELK, Online Retailer)",False,,False,False,1
+False,Amazing Apps,True,,Android Developer,False,,False,False,2
+False,Prime Lab,True,10000,Менеджер по продажам (IT-сфера),False,30000,False,False,
+False,DataArt,True,,Middle Database Developer (Global Music Company),False,,False,False,5
+False,Prime Lab,True,10000,Sales Manager (IT),False,30000,False,False,
+False,"Zone3000, IT-company",True,12500,Hosting customer support specialist,True,12500,False,False,
+False,GranSoft,True,,QА-инженер для ручного тестирования,False,,False,False,1
+False,DataArt,True,,.NET Engineer (Financial Systems),False,,False,False,2
+False,Eastern Peak,True,,Full-Stack JavaScript developer (Building an IoT project from scratch),False,,False,False,2
+False,Eastern Peak,True,,C# developer (Java),False,,False,False,2
+False,Web Design Sun,True,25000,Middle full stack web developer,False,35000,False,False,2
+False,Sigma Software,True,,Senior DevOps Engineer (Telecommunication Domain),False,,False,False,5
+False,DataArt,True,,Delivery Manager (Healthcare & Life Sciences),False,,False,False,5
+False,DataArt,True,,DevOps Engineer (Azure),False,,False,False,2
+False,MyCredit,True,,Project Manager,False,,False,False,2
+False,"Kiberone, IT-школа",True,8000,Учитель информатики,False,15000,False,True,
+False,"Zone3000, IT-company",True,,Middle/Senior Linux System Administrator,False,,False,False,2
+False,Rozetka,True,,Програміст 1С (модуль логістичних рішень),False,,False,False,1
+False,Sigma Software,True,,Senior Java Developer (Big Data Unit),False,,False,False,2
+False,DataArt,True,,Data Analyst (Fintech Solutions),False,,False,False,
+False,Eastern Peak,True,,Quality assurance engineer,False,,False,False,2
+False,"Zone3000, IT-company",True,12500,Customer Support Specialist,True,12500,False,False,
+False,Aimprosoft,True,,Hybris Team Lead,False,,False,False,5
+False,"Zone3000, IT-company",True,,Internal Communications Specialist,False,,False,False,2
+False,DataArt,True,,"Front-End Developer (Angular.js, React.js, Financial Analytics System)",False,,False,False,2
+False,DataArt,True,,Node.js Trainee,False,,False,False,1
+False,Eastern Peak,True,,Senior Full-stack PHP (Laravel+Vue) developer,False,,False,False,2
+False,Seil der Gesellschaft,True,10000,Менеджер по работе с клиентами через социальные сети,True,10000,False,False,
+False,G5 Entertainment,True,,Middle Web QA Engineer,False,,False,False,1
+False,DataArt,True,,React Native Developer (Digital Staffing Platform),False,,False,False,1
+False,DataArt,True,,Java Developer (Security Solutions),False,,False,False,5
+False,Autodoc,True,,QA Manual engineer,False,,False,False,1
+False,Sigma Software,True,,Java Developer (Integration Project),False,,False,False,2
+False,Gameloft,True,,Unity UI Integrator,False,,False,False,2
+False,Sigma Software,True,,JavaScript/Node.js Developer (Cyber Security Solution),False,,False,False,2
+False,Sigma Software,True,,Java Developer (Mobile Wallet),False,,False,False,2
+True,"Будстрой, ЛТД",True,20000,Системный администратор,False,20000,False,False,2
+False,DataArt,True,,Python Developer (Media Conglomerate),False,,False,False,1
+False,"Борис, студия дизайна и архитектуры",True,15000,"Дизайнер интерьера, 3D-визуализатор",False,25000,False,True,1
+True,Ecomexpertise NY,True,,.NET developer (Kentico CMS),True,,False,True,1
+True,UpLife Corporation,True,15000,Менеджер по работе с клиентами через социальные сети,True,15000,False,False,
+False,Netronic,True,,Middle Android developer,False,,False,False,2
+False,Outcrowd,True,,"2D Artist, Illustrator",False,,False,False,2
+False,ITCraft,True,,Junior .NET developer,False,,False,False,
+False,Eastern Peak,True,,Magento 2 developer,False,,False,False,2
+False,ITCraft,True,,Angular Developer,False,,False,False,1
+False,Motoprox,True,14000,"SMM-, контент-менеджер, таргетолог",False,14000,False,False,1
+False,Goodwin,True,25000,"DevOps engineer, Sysadmin",False,25000,False,False,5
+False,"Дружище, ТС",True,12000,SMM-менеджер,False,12000,False,False,1
+False,TestMatick,True,,"Junior Java developer, QA Automation Test Engineer",True,,False,False,
+False,DataArt,True,,Business Analyst (Security Solutions),False,,False,False,1
+False,Autodoc,True,,Senior/Lead SEO Specialist,False,,False,False,2
+False,DataArt,True,,Trainee/Junior DevOps,False,,False,False,
+False,DataArt,True,,"QA Automation Engineer (Cypress.io, Laboratory Data Management System)",False,,False,False,2
+False,DataArt,True,,Senior Project Manager (Insurance Services),False,,False,False,2
+False,DataArt,True,,Senior Java Engineer (Online Retailer),False,,False,False,5
+False,Mira Films,True,,"Оператор ПК, администратор сайта, контент-менеджер",False,,False,False,1
+False,DataArt,True,,Senior Python Developer (Global Music Company),False,,False,False,2
+False,"Троценко О.О., ФОП",True,,Customer Support Consultant,True,,False,False,
+False,Atlantmarket,True,15000,Интернет-маркетолог,False,15000,False,False,1
+False,CodeTiburon,True,,JavaScript/TypeScript Developer,False,,False,False,2
+True,IGSL Consulting,True,,"Аналитик баз данных, бизнес-процессов",True,,False,False,2
+False,"Жилстрой-3, ООО",True,16000,"Контент-менеджер, маркетолог",False,16000,False,False,1
+False,Netronic,True,,Инженер-электронщик,False,,False,False,2
+False,TestMatick,True,9000,Junior QA engineer,False,9000,False,False,
+False,"Евро-Азиатская служба стимулирования сбыта, ООО",True,15500,Интернет-маркетолог,False,26000,False,False,2
+False,Ners,True,12000,"Контент-менеджер, администратор сайта",False,15000,False,False,2
+True,"Медстар Солюшенс, ООО",True,,Менеджер технической поддержки (call-центр),False,,False,False,1
+False,GlobalLogic Ukraine,True,,"Trainee QA Engineer (Manual/Automation, IRC103994)",False,,False,False,1
+False,"Apple Room, мережа магазинів",True,10000,"Продавець-консультант техніки Apple (ТРЦ ""Караван"")",False,15000,False,False,1
+False,Sandi+,True,13000,SMM-менеджер,False,20000,False,False,2
+False,Green optima,True,13000,Интернет-маркетолог,True,13000,False,False,1
+False,"Троценко О.О., ФОП",True,,SMM specialist (Amazon),False,,False,False,1
+False,MaybeWorks,True,,Strong Junior JavaScript Developer,True,,False,False,1
+False,DataArt,True,,Business Analyst (Finance Practice),False,,False,False,2
+False,MDconsult,True,70000,Middle .NET Developer,False,70000,False,False,5
+False,Symbol,True,,Программист 1С,False,,False,False,5
+False,WordFactory,True,,"Автор текстов (английский, русский)",False,,False,True,1
+False,DataArt,True,,"Front-End Developer (Angular, Fintech Solutions)",False,,False,False,2
+False,DataArt,True,,Senior Webmaster,False,,False,False,2
+False,Santan,True,,ИТ-директор,False,,False,False,5
+False,Студия HR решений,True,,"Инженер-электроник, embedded engineer",False,,False,False,2
+False,"Данюк А.А., ФЛП",True,18000,Дизайнер для интернет-проектов,False,28000,False,False,2
+False,DataArt,True,,Resource Manager,False,,False,False,2
+False,ТАТА Мотоблок,True,,Аналитик,False,,False,False,1
+False,С3Vision Украина,False,,Программист,True,,False,True,
+False,Itransition,True,,PHP Middle Developer,False,,False,False,2
+False,"Above Bits, LLC",True,30000,Full Stack PHP WordPress Developer,False,45000,False,False,2
+False,Itransition,True,,.Net Middle Developer,False,,False,False,2
+False,Мигом,True,8000,Младший SEO-специалист,True,15000,False,False,1
+False,Itransition,True,,RPA Developer,False,,False,False,1
+True,Paravoz Group,False,,SMM-специалист,False,,False,False,2
+False,GlobalLogic Ukraine,True,,Linux Developer (IRC100954),False,,False,False,2
+False,GlobalLogic Ukraine,True,,"Test Engineer (AQA, Python, IRC105026)",False,,False,False,2
+False,IFS Ukraine,True,,BI Developer,False,,False,False,2
+False,"Медстар Солюшенс, ООО",True,,Системный администратор (медицинский домен),False,,False,False,2
+False,SHO?! Art & Data,True,40000,Middle PHP Developer,True,70000,False,False,2
+False,Aimprosoft,True,,Junior .Net Developer,False,,False,False,1
+False,Macuser,True,10000,Менеджер в интернет-магазин (техника Apple),True,10000,False,False,1
+False,Aimprosoft,True,,Middle Java developer,False,,False,False,2
+False,Ритейл Софт Консалтинг,True,15500,Специалист технической поддержки,False,15500,False,False,1
+False,GlobalLogic Ukraine,True,,.Net developer (IRC104387),False,,False,False,2
+False,Quod Financial,True,,Trainee/Junior C++ Developer,True,,False,False,
+False,Sigma Software,True,,Senior Python Developer With AWS (Automotive Domain) в Киев,False,,False,False,5
+False,GlobalLogic Ukraine,True,,Lead .Net Developer for a healthcare project (IRC107346),False,,False,False,5
+False,Sigma Software,True,,Junior Project Manager,False,,False,False,2
+False,Sigma Software,True,,Junior .NET Developer (Real Estate Project),False,,False,False,1
+False,EZLO Smart Home Automation,True,,C++ developer,False,,False,False,2
+False,DataArt,True,,"Junior UI/UX Designer (Media, Entertainment Practice)",False,,False,False,1
+False,"Грант, АТ",True,,Спеціаліст відділу супроводу автоматизованої банківської системи,False,,False,False,2
+False,Модный Остров&Dressa,True,10000,Системный администратор,False,12000,False,False,1
+False,ТАТА Мотоблок,True,,Продакт-менеджер,False,,False,False,1
+False,GlobalLogic Ukraine,True,,Senior C# AQA Engineer (IRC107398),False,,False,False,2
+False,GlobalLogic Ukraine,True,,Project Manager for Embedded Medical (IRC100975),False,,False,False,5
+False,Xado Chemical Group,True,,"Менеджер по работе с интернет-площадками (eBay, Amazon, социальные сети)",False,,False,False,2
+False,Zakupka.com,True,13000,Администратор баз данных,False,13000,False,False,1
+False,Quod Financial,True,,"Technical Support, Client Integration engineer",True,,False,False,
+False,ITCraft,True,,Wordpress Developer,False,,False,False,1
+False,DataArt,True,,Senior C++ Developer (Financial Analytics System),False,,False,False,5
+False,DataArt,True,,Middle JavaScript (React.js) Engineer,False,,False,False,5
+False,ITCraft,True,,Strong Middle Node.JS developer,False,,False,False,2
+False,DataArt,True,,Senior Project Manager (Hospital Health System),False,,False,False,5
+False,ITCraft,True,,Middle ReactJS Developer,False,,False,False,2
+False,Cifra Agency,True,,Web-дизайнер,True,,False,False,2
+False,Netpeak,True,,Junior PPC Specialist,True,,False,False,1
+False,Symbol,True,,Аналитик баз данных 1С,False,,False,False,2
+False,Quod Financial,True,11000,QA Automation Engineer trainee/junior (Python OR Java),True,28000,False,False,
+False,GlobalLogic Ukraine,True,,Associate Project Manager (IRC107146),False,,False,False,1
+False,GlobalLogic Ukraine,True,,"Technology Manager (QA, IRC106087)",False,,False,False,1
+True,GranSoft,True,,"Middle, Senior Developer, специалист Java",False,,False,False,2
+False,GlobalLogic Ukraine,True,,Senior DevOps Engineer (IRC106131),False,,False,False,5
+False,Adelina Call Center,True,8000,"Специалист по поддержке клиентов (call-center, русский язык)",True,8500,False,True,
+False,"Kiberone, IT-школа",True,7000,"Таргетолог, SMM-специалист",True,30000,False,False,1
+False,G5 Entertainment,True,,PHP developer,False,,False,False,1
+False,Gameloft,True,,Webtools Frontend Developer (Angular),False,,False,False,2
+False,Top Peak Digital,True,14000,Веб-розробник,True,15000,False,False,1
+False,"Аметрин ФК, ООО",True,,Системный администратор,False,,False,False,1
+False,Aimprosoft,True,,Middle Hybris Platform Developer,False,,False,False,2
+False,X100 Holding,True,18000,Технический писатель,False,25000,False,False,1
+True,GranSoft,True,,"Junior, Middle Developer, разработчик Java",True,,False,False,1
+False,GlobalLogic Ukraine,True,,"Lead Data Engineer (Python, IRC104739)",False,,False,False,5
+False,Webspark,True,,Business Analyst,False,,False,False,1
+False,Quod Financial,True,,Junior QA Manual Engineer,True,,False,False,1
+False,Adelina Call Center,True,7500,Консультант лінії підтримки клієнтів,True,8000,False,True,
+False,CS,True,,"Trainee SQL, PL/SQL Developer",False,,False,False,
+False,"Интернет-медиа, РА",True,38000,Middle PHP Developer в Киев,False,56000,False,False,1
+False,GlobalLogic Ukraine,True,,"Trainee DevOps Engineer (Scalability, IRC106762)",False,,False,False,1
+False,Клуб Семейного Досуга,True,,Аналітик,False,,False,False,2
+True,Golden Plaza,True,10000,"Администратор, контент-менеджер сайта",False,10000,False,False,1
+False,GlobalLogic Ukraine,True,,Middle Java Developer (IRC99820),False,,False,False,2
+False,"Медстар Солюшенс, ООО",True,,Бизнес-аналитик,False,,False,False,2
+False,ТАТА Мотоблок,True,,Интернет-маркетолог,False,,False,False,2
+False,Quod Financial,True,,Junior Database developer,False,,False,False,1
+False,Aimprosoft,True,,Senior Hybris Platform Developer,False,,False,False,5
+False,"Омега, ООО",True,,Программист 1C,False,,False,False,2
+True,"Гаман О.С., ФЛП",True,100,Программист 1С,False,25000,False,False,1
+False,Svitla Systems Inc.,True,20000,"Business Development Manager, Lead Generation Manager",False,20000,False,False,1
+False,FRC Professional Cosmetics,False,,SMM-менеджер,False,,False,False,1
+False,"Zone3000, IT-company",True,,System Administrator (Windows),False,,False,False,2
+False,Maxi Group International,True,12000,Системный администратор,False,12000,False,False,1
+False,"Zone3000, IT-company",True,,Business analyst,False,,False,False,2
+False,Cience Technologies Inc.,True,,Data Researcher,False,,False,False,
+False,АС Бизнес,True,10000,Программист 1С,False,25000,False,False,5
+False,Slice Planet,True,,IT Project manager,False,,False,False,2
+False,Inmost,True,,IT Sales Manager,True,,False,False,1
+True,Bookmap,True,30000,Разработчик Java,True,90000,False,False,1
+False,"Джеотех, ТОВ",True,,Customer Support Specialists,False,,False,False,2
+False,Golden Bank Staff,True,28000,"Разработчик React, Angularjs 1.6, nodejs, javascript-программист в Киев",False,56000,False,False,1
+False,DataArt,True,,"QA Automation Engineer with Appium, Financial Services",False,,False,False,2
+False,HR21,True,40000,Android-розробник,False,40000,False,False,2
+False,Netronic,True,,Project manager,False,,False,False,1
+False,Multi-Programming Solutions,True,30000,Middle QA Engineer,False,30000,False,True,2
+False,"Хамелеон софт, ООО",True,8000,"Оператор call-центра, технической поддержки",False,8000,False,False,
+False,CS,True,,Бизнес-аналитик,False,,False,False,2
+False,"Zone3000, IT-company",True,,UX/UI-дизайнер,False,,False,False,2
+False,Aweb Systems,True,2000,"Контент-менеджер, верстальщик",False,5000,False,False,
+False,"Zone3000, IT-company",True,,"Junior Technical Operations Engineer, Linux System Administrator",False,,False,False,1
+True,Mobecls,True,20000,Magento PHP-разработчик,True,55000,False,False,1
+False,"Аметрин ФК, ООО",True,18000,Программист 1C,False,27000,False,False,1
+False,WebFullSet,True,,"Backend-программист (PHP, Laravel, + VueJS)",False,,False,False,2
+False,Ronis,True,,PHP developer,True,,False,False,1
+False,"Джеотех, ТОВ",True,,Data Analyst,False,,False,False,1
+False,Meer industrial group,True,15000,"Оператор, наладчик, программист, технолог станков с ЧПУ",False,25000,False,False,5
+False,Украинские Ветеринарные Технологии,True,,Интернет-маркетолог,False,,False,False,2
+False,Software Development Hub,True,,QA-інженер,False,,False,False,1
+False,SoftermiiBPO,True,,Customer support manager,True,,False,False,2
+False,Sigma Software,True,,Senior Java Developer (Integration Project),False,,False,False,5
+False,ITCraft,True,,"Strong Middle Full Stack (.Net, Angular) developer",False,,False,False,2
+False,ITCraft,True,,"Senior Full Stack (.Net, Angular) developer",False,,False,False,5
+False,ITCraft,True,,DevOps Engineer,False,,False,False,2
+False,ITCraft,True,,Middle DevOps Engineer,False,,False,False,1
+False,Sigma Software,True,,"Senior Embedded Engineer, Team Lead",False,,False,False,5
+False,"Vega, телекоммуникационная группа",True,,Системный аналитик,False,,False,False,1
+False,Sigma Software,True,,Middle/Senior Front-end Developer (Energetics/Fintech project),False,,False,False,2
+False,DataArt,True,,QA Automation Trainee,False,,False,False,1
+False,Gameloft,True,,UI Integrator,False,,False,False,2
+False,Top Peak Digital,True,14000,IT Sales manager,True,14000,False,False,1
+False,Inmost,True,,"Lead generation manager, лидогенератор",True,,False,False,
+False,"Zone3000, IT-company",True,,"Middle Technical Operations Engineer, Linux System Administrator",False,,False,False,2
+False,Web Design Sun,True,16000,Full Stack Web Developer,True,28000,False,False,1
+False,MaybeWorks,True,,Trainee Javascript Developer,True,,False,False,
+True,Институт Южгипроцемент,True,8000,Системний адміністратор,True,9000,False,False,1
+False,Netronic,True,,Программист микроконтроллеров,False,,False,False,2
+False,Ronis,True,,IT Project Manager,False,,False,False,1
+False,"Zone3000, IT-company",True,,Linux System Administrator,False,,False,False,2
+False,Verna,True,,Менеджер в отдел техподдержки,False,,False,False,1
+False,DataArt,True,,MS SQL DB Engineer (Portfolio Management System),False,,False,False,2
+False,Новые Знания,True,,PHP developer,False,,False,False,1
+False,G5 Entertainment,True,,Game UI/UX Designer,False,,False,False,1
+False,Macuser,True,30000,Web developer (PHP),False,30000,False,False,1
+False,Zakupka.com,True,30000,Front-end developer (middle),False,37000,False,False,2
+False,"Джеотех, ТОВ",True,,Project Manager,False,,False,False,2
+False,Verna,True,,Системный администратор,True,,False,False,1
+False,"Хамелеон софт, ООО",True,10000,Выездной инженер технической поддержки,False,10000,False,False,1
+False,Sigma Software,True,,Middle/Senior Project Manager (Web and Mobile Solutions Department),False,,False,False,2
+False,Productech,True,16500,Amazon PPC-специалист,False,28000,False,False,1
+False,MyCredit,True,,Senior PHP Developer,False,,False,False,5
+False,"Zone3000, IT-company",True,,Middle/Senior Network Engineer,False,,False,False,2
+False,"Черкас И.Н., ФЛП",True,35000,Программист 1C,False,35000,False,False,1
+False,"
+
+            Компания скрыта
+        ",True,,Программист 1C,False,,False,False,2
+False,Sigma Software,True,,Department Coordinator (Embedded),False,,False,False,2
+False,CS,True,,Mobile QA Engineer,False,,False,False,1
+True,MaybeWorks,True,,Junior JavaScript Developer,True,,False,False,1
+False,Gameloft,True,,UI/UX Designer,False,,False,False,2
+False,Ромкос,True,12000,Контент-менеджер (SMM),False,15000,False,True,2
+False,Netronic,True,,Системный администратор,False,,False,False,2
+False,"Zone3000, IT-company",True,,Datacenter Operations Engineer,False,,False,False,1
+False,"Фрунзе, завод",True,7000,"PHP-разработчик, верстальщик",False,8000,False,False,2
+False,"Zone3000, IT-company",True,,Data analyst (marketing),False,,False,False,2
+False,"Zone3000, IT-company",True,12500,Специалист технической поддержки,True,12500,False,False,
+False,CodeTiburon,True,,Full-stack (.NET/Angular) Developer,False,,False,False,2
+False,BillWebStudio,True,15000,Front-end developer to Nikolaev,False,36000,False,True,2
+True,"Абитек, ООО",True,12000,Специалист внедрения и поддержки,True,12000,False,False,2
+False,Той-Той Трейд,True,15000,Интернет-маркетолог (SMM),False,15000,False,False,1
+False,Cactus,True,10000,SMM-менеджер,False,15000,False,False,1
+False,"Квадрат, digital-агентство",True,,"SMM-специалист, таргетолог, арбитражник в Киев",False,,False,False,
+False,Pharmbills,True,15125,IT System Administrator (fluent English),False,550650,False,False,1
+False,"Brand U!, digital-агентство",True,10000,Support manager,True,10000,False,False,
+False,"АкваАналитикс Украина, ООО",True,15000,Контент-менеджер,False,20000,False,False,1
+False,CHI Software,True,,IT Business Analyst,False,,False,False,2
+False,Intertool,True,,Junior Web Developer,False,,False,False,1
+False,"Стем Компания, ООО",True,,"Python, Django Developer",False,,False,False,
+False,Itransition,True,,Android Senior Developer,False,,False,False,5
+False,Itransition,True,,Ruby on Rails Middle Developer,False,,False,False,1
+False,Itransition,True,,IOS Middle Developer,False,,False,False,1
+True,"Никандров А., ФЛП",True,600,Middle UI/UX designer,True,70000,False,False,1
+False,E-Commerce Company (Florida),True,9000,Администратор интернет-магазина,False,11200,False,False,1
+False,Ancom Group,True,12000,Мастер по ремонту телефонов,False,12000,False,False,1
+False,GameLab,True,8000,Unity3D C# developer,False,10000,False,False,1
+True,DMD,True,,QA Engineer,True,,False,False,1
+False,"Троценко О.О., ФОП",True,,PPC-специалист,False,,False,False,2
+False,VisiQuate,True,,"Business Analyst (Database Development, US Healthcare)",False,,False,False,2
+False,VisiQuate,True,,Data Reporting Analyst,False,,False,False,2
+False,Protoq,True,,Front-end developer,True,,False,False,1
+False,"Академия Смарт, ООО",True,,Senior PHP developer (Laravel),False,,False,False,5
+False,"Академия Смарт, ООО",True,,Project Manager​,False,,False,False,1
+False,Avaza Group,True,,"Unity Developer (Hyper Casual, Middle/Senior)",False,,False,False,2
+False,"Академия Смарт, ООО",True,,Middle QA Engineer,False,,False,False,2
+True,Probox,True,20000,Project Manager,False,45000,False,False,1
+False,"Сиол, ООО",True,10000,Монтажник по подключению интернета (с обучением),False,15000,False,False,1
+False,"Лавриненко О.С., ФОП",True,,Android developer,False,,False,False,1
+False,Mobecls,True,70000,Magento-разработчик,True,110000,False,False,2
+False,"Інстинкт сонця, ТОВ",False,,SMM-менеджер (медицина),False,,False,True,1
+False,Imaris,True,20000,Middle PPC Specialist,False,30000,False,False,2
+False,APIbest LLC,True,7000,"Lead generation manager, лидогенератор",True,10000,False,False,1
+False,WhiteBIT,True,,Community manager,True,,False,False,
+False,Vetra Media,True,,"Research Software Engineer, Information security specialist",False,,False,False,2
+False,Opinion Corp,True,,"Community, SMM, PR manager",False,,False,False,1
+False,Opinion Corp,False,,"Community, SMM manager",False,,False,True,1
+False,Vetra Media,True,,Senior Front End Developer,False,,False,False,5
+False,Morris,True,14000,"Таргетолог, PPC-специалист",False,17000,False,False,1
+False,Scrumlaunch,True,35000,Back-End .Net Developer,False,55000,False,True,2
+False,The Focus,True,10000,Таргетолог (SMM),False,15000,False,False,1
+False,Региональный Медицинский Центр,True,,Программист системный,False,,False,False,1
+False,Sporty Systems,True,,Middle QA Engineer,False,,False,False,2
+False,"Данюк А.А., ФЛП",True,15000,"Специалист по интернет-рекламе, руководитель отдела",False,50000,False,False,2
+False,GSanimation,True,15000,ZBrush-моделер,False,27000,False,True,
+False,QA Madness,True,,Junior QA Engineer (Web Testing Team),False,,False,False,1
+False,Diasphere,True,3,"BIM specialist, modeler (Revit)",True,28000,False,False,
+False,Hurma System,True,,PHP developer,False,,False,True,2
+False,Qualium Systems,True,,Junior Unity Developer,True,,False,False,1
+False,WinService,True,10000,Монтажник з підключення інтернету,False,15000,False,False,
+False,Magecom,True,,Project manager,False,,False,False,2
+False,Magecom,True,,Magento Frontend developer,False,,False,False,2
+False,Magecom,True,,Magento Backend Developer,False,,False,False,2
+False,Connectic,True,8000,Менеджер по обработке интернет-заказов,True,8000,False,False,
+False,"Региональный Центр Новых Информационных Технологий, ООО",False,10000,Преподаватель курса тестировщиков QA,False,10000,False,True,2
+False,Asper,True,18500,PHP (Opencart) Developer,False,18500,False,False,1
+False,Faifly,True,,Junior Front-end developer,True,,False,False,
+True,Мобинет Украина,True,10000,Инженер техподдержки в отдел GPS-мониторинга,True,14000,False,False,1
+False,"ЗАО НДІРВ, ДП",True,,Начальник групи проектування пристроїв ЦОС і розробки вбудованого ПЗ ПЛІС,False,,False,False,5
+False,TerryConfort,True,10000,Администратор интернет-магазина,False,10000,False,False,1
+False,Arpo,True,,Lead Generation manager,False,,False,False,1
+False,Аналитика IT,True,13000,"Контент-менеджер, аналитик",False,13000,False,False,1
+False,WhiteBIT,True,,Customer support representative,True,,False,False,
+False,"КТС, ООО",True,8000,Технік з підключення інтернету,True,15000,False,False,1
+True,"Ткаченко О.О., ФОП",True,6000,Контент-менеджер,True,6000,False,False,1
+False,Interlogistic,True,14000,Project Manager,False,19000,False,False,1
+False,"Платонов А.В., ФЛП",True,9000,"Менеджер интернет-магазина цифровой техники, электроники и фототехники",True,9000,False,False,1
+False,Adavice,True,,Junior Web designer,False,,False,False,
+False,"Профессионал, ИТЦ",True,8000,Менеджер по продажам программного обеспечения,False,12000,False,False,
+True,7N,True,8000,Менеджер по работе с клиентами (e-commerce),True,18000,False,False,1
+False,"Перепелица А.Г., ФЛП",False,3000,"Lead generation manager, Sales assistant",True,3000,False,True,
+False,ITB Inc,True,25000,"Laravel developer (back-end, full-stack)",False,50000,False,False,2
+False,SeoMaxima,True,10000,SEO-специалист,False,15000,False,False,1
+False,Arsum,True,5000,Проектный менеджер в Киев,False,20000,False,True,1
+False,Аквалюкс,True,8500,Контент-менеджер,False,10000,False,False,1
+False,"ОМиС, ТД",False,,"Программист (web, мобильные приложения)",True,,False,False,1
+False,Sigma Software,True,,Strong Junior/Middle Test Engineer (Social Platform),False,,False,False,2
+False,QArea,True,,"Middle QA manual Lead (web, mobile)",False,,False,False,2
+False,"Black, SMM Agency",True,10000,SMM-специалист (Middle/Senior),False,15000,False,False,1
+False,Vapemix,True,20000,Руководитель интернет-магазина,False,30000,False,False,2
+False,Lutgame,True,,Unity Developer,True,,False,False,1
+False,"Сузирья, группа компаний",True,,"Програміст 1C, разработчик",False,,False,False,2
+False,IT Ukraine,True,6000,Angular-разработчик,False,9000,False,False,
+False,"Агристар, ООО",True,10000,Інженер комп'ютерних систем,False,12000,False,False,2
+False,"Ясон Маритайм, агентство по трудоустройству",True,28000,Web-программист,False,32000,False,False,1
+True,AddSalesforce,True,500,Менеджер по работе с клиентами со знанием немецкого языка (IT),True,500,False,False,
+False,FgFactory,True,,2D artist,False,,False,False,2
+True,Web-Machine,True,16000,Разработчик OpenCart и WordPress,False,16000,False,False,1
+False,"Пальчей Р.И., ФЛП",False,,Программист 1C,False,,False,True,2
+False,ITlabel,True,,Back-end PHP Developer,True,,False,False,1
+False,CHI Software,True,,"Sales Analyst, lead generation manager",False,,False,False,
+False,Твой Ментор,True,10000,"Копирайтер, SMM-менеджер (английский, русский)",True,10000,False,False,1
+False,"Сан-Ги, ООО",True,14000,Системный администратор,False,14000,False,False,2
+False,"Лекхим, АО",True,,Программист 1C,False,,False,False,2
+False,Один сервис. Украина,True,,Программист 1C BAS ERP,False,,False,False,1
+False,Itomych Studio,True,,Customer Support Agent,False,,False,False,
+False,Phenomenon Studio,True,10000,Sales-менеджер в студию UX/UI-дизайна,False,25000,False,False,1
+False,Itransition,True,,DevOps Senior Engineer,False,,False,False,2
+False,Itransition,True,,DevOps Middle Engineer,False,,False,False,1
+False,Aimprosoft,True,,Senior JavaScript Developer,False,,False,False,5
+False,Hazmob,True,,"3D Artist (CG, Mobile FPS Game)",False,,False,False,1
+False,Hazmob,True,,"2D Artist, художник",True,,False,False,1
+False,Sloboda studio,True,,Middle Ruby Developer,False,,False,False,2
+False,Olko,True,,Программист VBA,False,,False,False,2
+False,Inmost,True,,Junior Android developer,True,,False,False,
+False,"Гладкий Д.I., ФОП",True,,Customer Support Agent,True,,False,True,
+False,Mediasparx,True,8000,Web Designer,False,15000,False,True,2
+True,Medeanalytics Inc.,True,,"Database Developer (Jr BI, T-SQL)",True,,False,False,1
+False,"Горбенко А.В., ФЛП",True,6000,Фармер аккаунтов (Facebook),False,13000,False,False,
+False,Team Work Spirit,True,,Node.js back-end developer,False,,False,False,2
+False,E-commerce Studio,True,15000,SEO-специалист,False,35000,False,False,1
+False,Scrumlaunch,True,22500,Front-end developer (Angular),True,28000,False,True,1
+False,Nvinis,True,,"Junior Front-end developer, верстальщик",False,,False,False,1
+True,Максимус Маркетс ЛТД,True,15000,SMM-специалист в финансовую компанию,True,20000,False,False,2
+False,Intechsoft,True,,Operational Support Specialist (German language),False,,False,False,1
+False,NarsCars,True,2000,Программист Bitrix,False,56000,False,False,2
+False,Infusemedia,True,,Специалист по контролю качества информации,True,,False,False,
+False,CodeIT,True,,PHP developer,False,,False,False,1
+False,"Радиомаг Украина, ООО",True,15000,"Продавець-консультант, інженер-електронщик",True,15000,False,False,1
+False,"Safika (Зажарский Д.Н., ФЛП)",True,9000,"Контент-менеджер (Instagram, сайт)",False,12000,False,False,1
+False,TopFection,True,10000,Менеджер по работе с социальными сетями,False,14000,False,False,
+False,Art Lemon,True,12000,SEO-специалист (продвижение сайтов),False,18000,False,False,2
+False,"Байтеф, ЧП",True,,IT-директор,False,,False,False,2
+False,CodeTiburon,True,,DevOps Engineer,False,,False,False,1
+False,"АТ-Сигнал, ООО",True,,Інженер-програміст,False,,False,False,2
+False,Autodoc,True,,Customer Service Representative (German speaking),True,,False,False,
+False,Sytoss,True,,Middle Java Developer,False,,False,False,2
+False,Sytoss,True,,Junior .Net Developer,False,,False,False,1
+True,"Маслий А.А., ФЛП",True,6000,Маркетолог (SMM),False,16000,False,True,2
+False,DigitalSuits,True,,Content marketing specialist,False,,False,False,1
+False,Itransition,True,,.NET WPF Developer,False,,False,False,2
+False,Voxel Worlds,True,,"System, network administrator",False,,False,False,1
+False,Никотерм Украина,True,15000,Инженер-электронщик,False,17000,False,False,2
+True,"Остапенко І.М., ФОП",False,20000,Разработчик PHP,False,50000,False,False,5
+False,Стартум,False,5000,SMM-менеджер,False,7500,False,True,
+True,Denzub,True,14000,"Таргетолог (FB, Instagram, SMM)",True,16000,False,False,1
+False,Speway.com,True,15000,SEO-спеціаліст,False,25000,False,False,2
+False,Atlantmarket,True,14000,E-mail маркетолог,False,14000,False,False,1
+False,Absolute.master,True,8000,"SEO-специалист, интернет-маркетолог",True,8000,False,False,1
+False,"Николаев М.С., ФЛП",True,6000,"Junior CPC-специалист (Google Ads, контекстная реклама)",False,15000,False,False,1
+True,"Укрравлик, ТОВ",False,,Serm-специалист по работе с конкурентами (SMM),True,,False,True,1
+False,Haka Media,True,,Senior/Middle SEO Manager,False,,False,False,2
+False,Nova Partners PC,False,13000,Интернет-маркетолог,False,13000,False,False,2
+False,Прайм,True,6000,Контент-менеджер,False,9000,False,False,1
+False,Харківська гімназія №23,True,6600,Учитель математики та інформатики,False,12000,False,False,
+True,DevStation Limited,True,,Full stack програміст,True,,False,True,1
+False,RightFusion,True,40000,"Full Stack Developer (PHP, JS)",False,60000,False,False,2
+True,Bogat.Digital,True,10000,SEO-специалист,True,20000,False,True,2
+False,Flex Reality,True,10000,Unity 3D Technical Artist,True,15000,False,False,1
+False,Envion Software,True,,Junior WordPress Developer,True,,False,False,1
+False,"Goracio, branding agency",True,20000,Full stack WordPress developer,False,20000,False,True,2
+False,Scrumfactory,True,27000,PHP developer,True,35000,False,True,1
+False,Itransition,True,,Full-stack Developer (.NET),False,,False,False,1
+False,Itransition,True,,Salesforce Middle Developer,False,,False,False,1
+True,"Борисов М.В., ФЛП",True,5000,SEO-копирайтер в Киев,True,12000,False,False,
+False,"Вертикаль, строительная компания",False,,PPC-специалист,True,,False,True,1
+True,Meral,True,10000,C#/.Net Developer,False,30000,False,False,2
+False,VIM,True,,Инженер проектов со знанием программы Revit (строительство),False,,False,False,5
+False,SweetSoft,True,,Front-end Developer (Angular),False,,False,False,1
+False,Alisa TMS,True,,"Копирайтер, контент-менеджер",False,,False,True,1
+False,Desart Lab,True,,Customer support manager (English),True,,False,False,1
+False,Desart Lab,True,,"Дизайнер, 3D-Render Artist",False,,False,False,2
+False,"HTE, LLC",True,,Инженер-программист embedded,False,,False,False,2
+False,Mooove,True,,"Контент-менеджер, копирайтер",False,,False,False,1
+False,Mooove,True,,"Таргетолог, Traffic Manager",False,,False,False,1
+False,Mooove,True,,"Веб-дизайнер, тильдолог, Web Designer",False,,False,False,1
+False,Scrumlaunch,True,15000,Manual QA Engineer,False,25000,False,True,1
+False,Syject,True,,C#/.Net Developer,True,,False,False,1
+False,MetraBit,True,,Junior PHP developer (Laravel or Symfony),False,,False,False,1
+False,Apricode,True,,IT Sales Manager,False,,False,False,2
+True,Uaateam,False,,Редактор блога,True,,False,True,1
+False,Outsource4biz,True,,"System Support Engineer, Sysadmin",False,,False,False,1
+False,Сейф ТI,True,28400,Senior Frontend Developer,False,60000,False,False,2
+False,Cyborgs.pro,True,,Программист PHP,False,,False,False,1
+False,Flex Reality,True,,"Unity 3D Developer (VR, AR)",True,,False,False,1
+False,WU.ua,True,42750,Web Developer (PHP middle),False,56000,False,False,2
+False,"Благовіст, ХПНВК",True,,Учитель физики и информатики,False,,False,False,5
+False,Dzencode LLC,True,10000,Strong Junior Python Developer (Django),False,23000,False,False,1
+False,TrendLine Ukraine,True,,Интернет-маркетолог,False,,False,False,1
+False,TrendLine Ukraine,True,,SEO-оптимизатор,False,,False,False,1
+False,TrendLine Ukraine,True,,"PPC-специалист, таргетолог (Google Ads, Facebook)",False,,False,False,1
+False,Berlin Labs,True,,Node.js developer,False,,False,False,2
+False,Клиника репродуктивной медицины им. В.И. Грищенко,True,,SMM-специалист,False,,False,True,1
+True,Ektos,True,,System administrator,False,,False,False,2
+False,Itransition,True,,Java Middle Developer,False,,False,False,2
+False,PSV Game Studio,True,9500,"2D Game Artist (Photoshop, illustrator)",False,16000,False,False,1
+False,PSV Game Studio,True,14500,Unity3D Developer (GameDev),True,28500,False,False,1
+False,Vapemix,True,10000,SMM-менеджер,False,20000,False,False,2
+True,UUIT-group,True,42000,"PHP-программист (Laravel, vue.js)",False,42000,False,False,1
+False,KSystems,True,,IOS Developer (Middle),True,,False,True,1
+True,ProfITsoft,True,,Intern Automation QA Engineer,True,,False,True,
+True,ProfITsoft,True,,Intern Full Stack Software Engineer (Java),True,,False,True,
+True,WinOptionSignals,False,8000,Контент-менеджер,True,15000,False,False,1
+False,Itransition,True,,Front-End Middle Developer,False,,False,False,2
+False,"Лакимолл, ООО",True,10000,"Інтернет-маркетолог (Киев, Харьков, Днепр)",False,20000,False,True,1
+False,SHO?! Art & Data,True,15000,Frontend React Developer,True,25000,False,False,1
+False,Top Power,True,15000,"Консультант, менеджер технической поддержки",False,17000,False,False,1
+False,Babylon,True,8000,"Менеджер по продажам (соц. сети, интернет-магазин)",False,15000,False,True,1
+False,Bini Bambini,True,,Middle 2D Animator,False,,False,False,2
+False,4GStar,True,12000,"Технический специалист, системный администратор",True,12000,False,False,
+False,"Солодовнік М.Я., ФОП",False,10000,SMM-менеджер,False,10000,False,True,1
+True,Gadgik,True,20000,Программист 1C Bas ERP,True,40000,False,False,1
+False,Octarine,True,28000,Frontend React JS Developer,False,28000,False,False,2
+False,Team Work Spirit,True,,Markup/Junior React Developer,False,,False,False,2
+False,MetraBit,True,,Junior Front-end developer,False,,False,False,1
+False,Antagosoft,True,,PHP developer (Laravel),True,,False,False,
+False,Devart,True,,QA Engineer,False,,False,False,2
+False,AxiomSL,True,,Junior QA Engineer,False,,False,False,
+False,Атлантик-Гейзер,True,13000,SMM-менеджер,False,13000,False,False,1
+False,S-tell,True,10000,Контент-менеджер,False,10000,False,False,1
