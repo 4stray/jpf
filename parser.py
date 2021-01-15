@@ -21,7 +21,6 @@ import re
 from serializer import JobSerializer
 
 SOURCE_DOMAIN = 'https://www.work.ua'
-SOURCE_URL = SOURCE_DOMAIN + '/ru/jobs-kharkiv-it/'
 
 
 async def perform_tasks_non_suspiciously(tasks, batch, delay):
@@ -200,6 +199,8 @@ class Parser(object):
             time.sleep(1)
             self.loop.run_until_complete(page.retrieve_jobs())
 
+        return self
+
     def export(self, fname):
         jobs = [job.json() for job in self.pager.all_jobs()]
         with open(fname, 'w') as target:
@@ -208,9 +209,4 @@ class Parser(object):
             for job in jobs:
                 writer.writerow(job)
 
-
-parser = Parser(SOURCE_URL)
-parser.gather()
-parser.export(fname='export.csv')
-
-# print(parser.pager.links())
+        return self
